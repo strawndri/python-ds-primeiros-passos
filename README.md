@@ -1,7 +1,7 @@
 # 🐍| Python para Data Science: primeiros passos
 
 ![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-f5b5ca.svg)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-F8EE77.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-abf285.svg)
 
 ## Índice
 
@@ -17,7 +17,11 @@ Projeto de especialização em análise de dados desenvolvido durante a realiza�
 
 ## Aprendizagens
 - Utilização do Google Colaboratory de forma eficiente;
-- O que é Python e sua história.
+- O que é Python e sua história;
+- Manipulação de dados;
+- Estruturas condicionais;
+- Estruturas de repetição;
+- Estruturas de dados, como listas e dicionários.
 
 ## Como acessar o projeto?
 
